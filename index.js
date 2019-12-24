@@ -56,4 +56,4 @@ client.on('message', msg => {
 
 
 
-client.login('NjU5MDQ5MjA0MDA5NjY0NTEz.XgJOAA.51PCbuVhRmQBgNafwwcbunnueT4')
+client.login(BOT_TOKEN)
