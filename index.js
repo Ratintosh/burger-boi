@@ -54,6 +54,6 @@ client.on('message', msg => {
 
 
 
-
+//token
 
 client.login(BOT_TOKEN)
